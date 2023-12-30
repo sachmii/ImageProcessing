@@ -32,4 +32,4 @@
 *.app
 
 # ignore build folder
-/.vscode
+.vscode/
